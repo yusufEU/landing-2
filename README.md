@@ -1,5 +1,21 @@
-Description: Responsive landing page (HTML/CSS/JS).
+# Landing Page 2
 
-Website: https://yusufeu.github.io/landing-2/
+Second responsive landing page project built with HTML, CSS and JavaScript.
 
-Topics: html, css, javascript, responsive, landing-page
+## 🔗 Live Demo
+https://yusufeu.github.io/landing-2/
+
+## 🛠 Tech Stack
+- HTML5
+- CSS3 (Flexbox, Grid)
+- JavaScript
+
+## ✨ Features
+- Responsive layout
+- Improved structure vs Landing 1
+- Interactive elements
+- Deployed via GitHub Pages
+
+## 📂 Installation
+git clone https://github.com/yusufEU/landing-2.git
+Open index.html in browser.
